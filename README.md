@@ -20,10 +20,5 @@ Learning React and ES6 by buliding a Movie Discovery App.
 - Movie Detail
 - Search (TV, Movies)
 
-## Code Chanllenges
-
-- IMDB Link
-- Tabs inside of Movie Show Details (YT Videos, Production Company, Production Country & Flay)
-- Collection Link
-- Collection Router
-- On tv Show, show seasons and creators
+## Demo
+- https://kiyoungsong.github.io/songfilex
