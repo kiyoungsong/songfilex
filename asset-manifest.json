@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/songfliex/static/js/main.34c7d575.chunk.js",
-    "main.js.map": "/songfliex/static/js/main.34c7d575.chunk.js.map",
-    "runtime-main.js": "/songfliex/static/js/runtime-main.94131bd3.js",
-    "runtime-main.js.map": "/songfliex/static/js/runtime-main.94131bd3.js.map",
+    "main.js": "/songfliex/static/js/main.a58857fc.chunk.js",
+    "main.js.map": "/songfliex/static/js/main.a58857fc.chunk.js.map",
+    "runtime-main.js": "/songfliex/static/js/runtime-main.02309d64.js",
+    "runtime-main.js.map": "/songfliex/static/js/runtime-main.02309d64.js.map",
     "static/css/2.e9335654.chunk.css": "/songfliex/static/css/2.e9335654.chunk.css",
-    "static/js/2.6aad0307.chunk.js": "/songfliex/static/js/2.6aad0307.chunk.js",
-    "static/js/2.6aad0307.chunk.js.map": "/songfliex/static/js/2.6aad0307.chunk.js.map",
+    "static/js/2.ab2c4d67.chunk.js": "/songfliex/static/js/2.ab2c4d67.chunk.js",
+    "static/js/2.ab2c4d67.chunk.js.map": "/songfliex/static/js/2.ab2c4d67.chunk.js.map",
     "index.html": "/songfliex/index.html",
     "static/css/2.e9335654.chunk.css.map": "/songfliex/static/css/2.e9335654.chunk.css.map",
-    "static/js/2.6aad0307.chunk.js.LICENSE.txt": "/songfliex/static/js/2.6aad0307.chunk.js.LICENSE.txt",
+    "static/js/2.ab2c4d67.chunk.js.LICENSE.txt": "/songfliex/static/js/2.ab2c4d67.chunk.js.LICENSE.txt",
     "static/media/noPosterSmall.png": "/songfliex/static/media/noPosterSmall.a2f288dd.png",
     "static/media/slick-theme.css": "/songfliex/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.94131bd3.js",
+    "static/js/runtime-main.02309d64.js",
     "static/css/2.e9335654.chunk.css",
-    "static/js/2.6aad0307.chunk.js",
-    "static/js/main.34c7d575.chunk.js"
+    "static/js/2.ab2c4d67.chunk.js",
+    "static/js/main.a58857fc.chunk.js"
   ]
 }
