@@ -22,3 +22,7 @@ Learning React and ES6 by buliding a Movie Discovery App.
 
 ## Demo
 - https://kiyoungsong.github.io/songfilex
+
+
+## Skills
+- React
