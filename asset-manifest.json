@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/songfilex/static/js/main.cd248684.chunk.js",
-    "main.js.map": "/songfilex/static/js/main.cd248684.chunk.js.map",
-    "runtime-main.js": "/songfilex/static/js/runtime-main.92ba1828.js",
-    "runtime-main.js.map": "/songfilex/static/js/runtime-main.92ba1828.js.map",
+    "main.js": "/songfilex/static/js/main.95cb7e3c.chunk.js",
+    "main.js.map": "/songfilex/static/js/main.95cb7e3c.chunk.js.map",
+    "runtime-main.js": "/songfilex/static/js/runtime-main.6c040c99.js",
+    "runtime-main.js.map": "/songfilex/static/js/runtime-main.6c040c99.js.map",
     "static/css/2.49272c36.chunk.css": "/songfilex/static/css/2.49272c36.chunk.css",
-    "static/js/2.df885d6d.chunk.js": "/songfilex/static/js/2.df885d6d.chunk.js",
-    "static/js/2.df885d6d.chunk.js.map": "/songfilex/static/js/2.df885d6d.chunk.js.map",
+    "static/js/2.feaad6a2.chunk.js": "/songfilex/static/js/2.feaad6a2.chunk.js",
+    "static/js/2.feaad6a2.chunk.js.map": "/songfilex/static/js/2.feaad6a2.chunk.js.map",
     "index.html": "/songfilex/index.html",
     "static/css/2.49272c36.chunk.css.map": "/songfilex/static/css/2.49272c36.chunk.css.map",
-    "static/js/2.df885d6d.chunk.js.LICENSE.txt": "/songfilex/static/js/2.df885d6d.chunk.js.LICENSE.txt",
+    "static/js/2.feaad6a2.chunk.js.LICENSE.txt": "/songfilex/static/js/2.feaad6a2.chunk.js.LICENSE.txt",
     "static/media/noPosterSmall.png": "/songfilex/static/media/noPosterSmall.a2f288dd.png",
     "static/media/slick-theme.css": "/songfilex/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.92ba1828.js",
+    "static/js/runtime-main.6c040c99.js",
     "static/css/2.49272c36.chunk.css",
-    "static/js/2.df885d6d.chunk.js",
-    "static/js/main.cd248684.chunk.js"
+    "static/js/2.feaad6a2.chunk.js",
+    "static/js/main.95cb7e3c.chunk.js"
   ]
 }
